@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'sandbox.apps.corgi',
     'sandbox.apps.breeder',
+    'south',
 )
 
 MIDDLEWARE_CLASSES = (
